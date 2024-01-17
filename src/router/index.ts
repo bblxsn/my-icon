@@ -8,7 +8,15 @@ const routes: Array<RouteRecordRaw> = [
     meta: {
       title: "My Icon",
     },
-  }
+  },
+    {
+        path: '/index2',
+        name: 'index2',
+        component: () => import( '../views/index2.vue'),
+        meta: {
+            title: "My Icon2",
+        },
+    }
 ]
 
 const router = createRouter({

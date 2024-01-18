@@ -36,9 +36,6 @@
             <el-option label="容器" value="1" />
             <el-option label="虚拟机" value="2" />
             <el-option label="其他" value="3" />
-            <el-option label="圆角矩形图标" value="4" />
-            <el-option label="圆形图标" value="5" />
-            <el-option label="SVG 图标" value="6" />
           </el-select>
         </template>
       </el-input>
@@ -68,7 +65,7 @@
           <el-image
             lazy
             class="card_img"
-            :src="data.publicPath + item.path +'/' + item.name + item.suffix"
+            :src="data.publicPath + 'icon/' + item.name + '.png'"
           />
           <div class="card_txt" @click="openUrl(item.course)">
             {{ item.name }}
@@ -127,7 +124,7 @@ export default defineComponent({
     //读取本地的图片
     function readLocalFile() {
       return new Promise((resolve, reject) => {
-        fetch(data.publicPath + "db2.json?"+ new Date().getTime() )
+        fetch(data.publicPath + "db.json?"+ new Date().getTime() )
           .then((response) => response.json())
           .then((data) => {
             // 进行排序操作
@@ -156,15 +153,6 @@ export default defineComponent({
       } else if (value == 3) {
         data.selectlabel = "其他";
         filteredData = tempdata.filter((item) => item.sort == "other");
-      } else if (value == 4) {
-        data.selectlabel = "圆角矩形图标";
-        filteredData = tempdata.filter((item) => item.type == "border-radius");
-      } else if (value == 5) {
-        data.selectlabel = "圆形图标";
-        filteredData = tempdata.filter((item) => item.type == "circle");
-      } else if (value == 6) {
-        data.selectlabel = "SVG 图标";
-        filteredData = tempdata.filter((item) => item.type == "svg");
       } else {
         data.selectlabel = "全部";
         filteredData = tempdata;

@@ -1,0 +1,6743 @@
+[
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Photoprism_C",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Wizarr_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Bitwarden_B",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Actual_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Team-mapper_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "webdav_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Cloudflare_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Vscodium_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "UnlockMusic",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Audio-bookshelf_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Photostructure_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Nut_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Tautulli",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Photoprism_B",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Shiori_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Swing-music_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Bitwarden_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Actual_B",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Deepin_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Librespeed_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "DDNS",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Cloudflare_B",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Watchtower_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Homer_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Photoprism_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Photoprism_E",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Time_machine_B",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Docker",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Photoprism_D",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Zigbeemqtt_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Tandoor_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Photoprism_F",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "cloudreve",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Time_machine_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Jellyseerr",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Ariang_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Bazarr_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Cloudreve_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Compressarr",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Chrome_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Nginx_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Bazarr_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "qbittorrent",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Youtube-dl_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Trilium_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Youtube-dl_C",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Nginx_B",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Omnivore_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "IYUU",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Youtube-dl_B",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Homer_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Apache_webdav_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Guacamole_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Navidrome",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Watchtower_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "komga",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Cloudflare_B",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "ChineseSubFinder",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "hertzbeat",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "vikunja",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Qinglong",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Rosy_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "PTHelper",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Cloud-beaver_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "pingvin-share",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Syncthing",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Speedtest",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Telegram_C",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "luckybackup",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Slash_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Whisparr_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Tdarr_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Qbittorrent_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Wordpress_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "grafana",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Telegram_B",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Sonarr_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "wordpress",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Qbittorrent_B",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Flood_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Telegram_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Audiobookshelf_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "qinglong_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Webdav",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "npc",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Autobangumi_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Trakt_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Ombi",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Readarr",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Slack_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "lskypro",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "audiobookshelf",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "openkylin",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Rocky_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "pikpak",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Prowlarr",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Focalboard_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Rocky_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Element_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "photoprism",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Subplayer_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "focalboard",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Overseerr",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "FileBrowser",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "FreshRSS",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "frpc",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Cloudrive_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Rocky_B",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Sshwifty_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "flare",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Caddy_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Telegram_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Chandao_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "navidrome_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Casaos_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "autopiano",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Wireguard",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Minio",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Discord_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "heimdall",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Snapdrop_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Caddy",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Wordpress_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "deepin",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Chandao_B",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Lidarr",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "It-tools_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Whisparr_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Dell_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "frps",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "verysync",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/circle",
+        "name": "Swingmusic_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Dsphoto_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "siyuan",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Photoprism_C",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Tasmota_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Nascab_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Wizarr_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Pihole_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "baota",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Lidarr_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Mosquitto_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "photoview",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Portainer_C",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Actual_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Nginx_E",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "1Panel_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Unbound_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Webdav_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Kodi_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Postgresql_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Chinesesubfinder_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Cloudflare_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Enpass_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "bgmi",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Bark_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Mediasaber_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Apache_D",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Mysql_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Docusaurus_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Vscodium_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Teamspeak_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Mover_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Portainer_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Nginx_D",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "ward",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Photostructure_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "zerotier",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "xunlei",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Photoprism_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Readarr_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Invoice_ninja_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Calibre-web_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Synosecure_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Shiori_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Hulu_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Mattermost_D",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "ubooquity",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Aospace_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Tasmota_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Metatube_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Pihole_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Photostructure_C",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Mosquitto_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Nginx_F",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Baidudrive_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "1Panel_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Moviepilot_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Remotely_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Couchdb_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Kodi_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "embyserver",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Postgresql_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Dozzle_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Cloudflare_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Tbs_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Vscodium_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Docusaurus_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Nezha_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Mysql_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Heimdall_D",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Watchtower_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Nginx_G",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Neko_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Portainer_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Photostructure_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Lucky_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Tasmoadmin_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "jump",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "V2raya_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Photoprism_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Readarr_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Homarr_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Iobroker_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Wisemapping_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Prometheus_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Mattermost_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Kplayer_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Synomail_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "recorder",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Authelia_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Handbrake_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Nginx_C",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Cloudreve_C",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Vscode_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Ptools_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Nextcloud_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Ha_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Apache_C",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Qnap_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Cyberchef_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Directus_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "dsm6",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Bazarr_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Unbalance_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Tautulli_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "dsm7",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Apache_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Wallabag_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Ha_C",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "memos",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Heimdall_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Cloudreve_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Portainer_D",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Nginx_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Vertex_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Mdcng_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Rclonebrowser_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Alicloud_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Kodcloud_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Filebrowser_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Unlockmusic_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "QQ_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Steam_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Alidrive_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Tandoor_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Prometheus_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Searx_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Mattermost_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "vocechat",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Wireguard_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Tailscale_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Photostructure_E",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "microsoft-edge",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Time_machine_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Requestrr_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Authelia_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Handbrake_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "mt-photos",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Vscode_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Heimdall_C",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Mtphotos_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Ptools_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Ha_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Wallabag_C",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Qnap_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Bililive_recorder_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Bazarr_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Directus_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Cyberchef_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Amc_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Wallabag_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Fail2ban_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Apache_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Ptools_C",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "tinycore",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Heimdall_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Vscode_C",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Dianxinyun_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Nginx_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Cloudreve_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Mediaelch_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Whaledeck_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Photostructure_D",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Mdcng_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Vertex_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Dootask",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Rustdesk_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Kodcloud_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Wbo_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Chrome_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "vaultwarden",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "vertex",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Filebrowser_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Unlockmusic_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Mattermost_C",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Lanzouyun_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Trilium_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Transmission_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Wbo_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Influxdb_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Linkace_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Flexget_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Vertex_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "happypandax",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Halo_D",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Jellyfin_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Rocketchat_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Nodered_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Hbomax_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "backup-x",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Apache_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Wallabag_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "123Pan_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Dockge_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Homepage_C",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "xyhelper",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Githubdesktop_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Cloudreve_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "B2cloud_storage_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "nextcloud",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Jfa-go_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Vscode_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "V2ray_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Wise-mapping_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Googletv_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Calibreweb_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Teammapper_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Cookiecloud_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Authelia_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Synolivecam_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Homepage_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Synovpn_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Documize_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Prowlarr_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Pushplus_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Qnap_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "wallabag",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Wallabag_C",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Dim_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Omnivore_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Memcached_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Halo_E",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Wireguard_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Komga_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Lanzouyun_C",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Lanzouyun_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Trilium_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Alicloud_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Transmission_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Searxng_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Linkace_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Influxdb_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Vertex_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Zigbeemqtt_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Rsync_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "V2raya_D",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Nodered_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Rocketchat_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "baidunetdisk",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Jellyfin_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Wallabag_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Apache_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Chanify_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "123Pan_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Jfa-go_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "shumeipan",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Ptools_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "V2ray_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Vscode_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Rsshub_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Cookiecloud_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Calibreweb_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Nginx_C",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Authelia_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Directus_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Homepage_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Cyberchef_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Lomorage_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Qnap_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Apache_C",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Jellyfin_C",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "wiznote",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Omnivore_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Dim_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Halo_F",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Jelu_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Mongodb_D",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Linkace_C",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Komga_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Libreddit_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Dscam_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Homer_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Youtubedl_C",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Mariadb_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Lanzouyun_D",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "surveyking",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Onlyoffice_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Synodrive_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Pthelper_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "kiwix-serve",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Apache_webdav_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Halo_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "tieba-cloud-sign",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "V2raya_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Emby_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Nezha_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Cloud-beaver_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Guacamole_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Vscodium_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "2Fauth_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Wallabag_D",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "cloudflare",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Ferdi_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "metube",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Movierobot_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "bilibili",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Tjupt_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Wiznote_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Wiznote_C",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Filerun_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Foliate_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Deepin_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Composerize_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Homepage_D",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Ferdi_C",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Dozzle_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Librespeed_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Docker_registry_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Github_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "halo",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Melody_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Halo_C",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Mongodb_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Teslamate_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Clash_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Youtubedl_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Bitwarden_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "jellyfin",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Nut_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Mariadb_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Pthelper_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Onlyoffice_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Linkace_D",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Mongodb_C",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Codeserver_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Halo_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Emby_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "V2raya_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Code-server_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "2Fauth_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Vscodium_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Rosy_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Github_C",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "filecodebox",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Ferdi_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Netflix_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Clamav_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Pydiocells_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Movierobot_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Wiznote_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Filerun_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "homarr",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Miniflux_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Actual_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "reader",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Cloudflare_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Github_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Docker_registry_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "V2raya_C",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "kplayer",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "vscode",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "netdata",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Teslamate_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Mongodb_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "speedtest",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "12306_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Clash_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Bitwarden_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Azure_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Youtubedl_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Quill_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Minio_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Wikijs_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Openvpn_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Freenom_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Cloudcmd_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Slash_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Routeros_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Whisparr_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Plex_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Tdarr_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Affine_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Memos_C",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Uptimekuma_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Radarr_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Scrutiny_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Baidu_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Freshrss_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Krusader_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "189drive_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "nps",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Npm_C",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Plexmetamanager_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Dell_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Dsnote_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Debian_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "postgresql",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Wechat_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Plexmetamanager_C",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Npm_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Scrutiny_C",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Deluge_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "115_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Memos_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "163music_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Qbittorrent_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "adminer",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Youtube_D",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Docker_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Wordpress_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Vagrant_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Aws_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Shadowsocksr_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Jellyseerr_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Snapdrop_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Jackett_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Dsfile_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Rog_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Minio_C",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Codex_docs_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Drawio_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Autobrr_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Quill_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Stirlingpdf_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "nginx",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Discord_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Mgm+_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "tomcat",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Minio_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Ward_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Openvpn_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Wikijs_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Routeros_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Snap2html_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Cloudcmd_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Freenom_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Zspace_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Chrome_extension_store_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Docker_C",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Tencent_cloud_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Plex_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Whisparr_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Uptimekuma_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Scrutiny_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Krusader_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Freshrss_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Plexmetamanager_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Sonarr_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Amc+_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Epicgames_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Casaos_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Debian_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Npm_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Tieba_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Wechat_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "nastool",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "yesplaymusic",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Pikpak_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Seafile_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Planka_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "talebook",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "115_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Qbittorrent_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "163music_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Memos_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Plex_C",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "lychee",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Frigate_D",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Caddy_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Docker_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Wordpress_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Jellyseerr_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Adguard-home_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Flood_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Rog_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "alist",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Lskypro_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Docker-registry_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Metube_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Shadowsocks_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Minio_D",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Redis_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Jfago_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Gcore_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Chatgpt_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Dashdot_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Plugins_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Cloudbeaver_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Hexo_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Wekan_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Chevereto_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "cookiecloud",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Docker_F",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Youtube_C",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Alist_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Verysync_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "filerun",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Padavan_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Wxread_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Helm_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Arch_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Scrutiny_D",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "chfs",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Gitea_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Dsvideo_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Amule_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Qinglong_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Plexmetamanager_D",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Primevideo_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Npm_D",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "bililive-go",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Excalidraw_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Amule_C",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Duplicati_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Calibre_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Focalboard_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Adminer_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "nascab",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Nvidia_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Kubespider_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Dsaudio_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Gitlab_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Frigate_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "qiandao",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Jenkins_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "fgc",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Passky_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Passbolt_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Youtube_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Docker_G",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "redis",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Siyuan_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Wekan_C",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Frp_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Googleclassroom_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Slack_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "pt_helper",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Xunlei_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Metube_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Zerotier_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Plugins_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Element_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Gcore_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Jfago_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "ams",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Hexo_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Wekan_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "librephotos",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Cloudbeaver_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Docker_E",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Webos_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Alist_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "excalidraw",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Xike_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Padavan_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Verysync_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Arch_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Helm_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Dsrouter_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Frigate_C",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Themeengine_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "immich",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Calibre_C",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Gitea_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Amule_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Qinglong_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Bilibili_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Excalidraw_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Yesplaymusic_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Calibre_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Focalboard_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Duplicati_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Frigate_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Ddns_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "duplicati",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Jenkins_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Passbolt_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Youtube_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Docker_D",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Google_cloud_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "tailscale",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Bard_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Rclone_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Youtube_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Docker_D",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Photoview_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Aria2_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Bard_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Tortoisesvn_D",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Hlink_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "ddnsto",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Koodoreader_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Openwrt_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Flatnotes_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Joplin_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Elastic_C",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "uptimekuma",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Cloudrive_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Rocky_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Nvidia_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Overseerr_D",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Speedtest_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Bilibili_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Dootask_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Elastic_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Linkease_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Amule_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "dsback",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Chatgpt_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Gcore_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Koodoreader_C",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Subplayer_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Alist_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Mkvtoolnix_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Tips_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Wekan_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Qiandao_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Terabox_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Rclone_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "answer",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Youtube_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Synochat_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Bililive-recorder_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Aria2_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Photoview_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Alist_encrypt_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Waline_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Koodoreader_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Joplin_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Flatnotes_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Openwrt_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Duplicati_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Microsoft365_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Syncthing_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "myicon",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Bilibili_C",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Cloudrive_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Rocky_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Nvidia_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Musictag_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Adminer_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Sshwifty_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Arch_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Rocky_C",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Bilibili_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Elastic_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Paramount+_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "kodcloud",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "calibre",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Chatgpt_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Tmm_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Synomoments_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Aria2_C",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Mkvtoolnix_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Youtube_C",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "dbgate",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Wekan_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Chevereto_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Kubernetes_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Ntfy_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Docker_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Vagrant_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Tortoisesvn_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Telegram_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "jackett",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Chandao_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Edge_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Office_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Wangxinyun_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Rog_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Baidu_C",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Gatus_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Dscloud_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Navidrome_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Wechat_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Nps_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Grafana_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Plex_C",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Spotify_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "wireguard",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Overseerr_C",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Overseerr_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Adguard_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Overleaf_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "mongodb",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Disney+_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Plex_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Freegamesclaimer_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Elastic_D",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Nastools_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Ombi_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "dashdot",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Biglybt_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Roon_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Pma_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Baidu_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Kmplayer_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Traefik_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Firefox_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "mariadb",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Qiniu_cloud_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Tortoisesvn_C",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Emqx_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Onedrive_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Docker_C",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Netdata_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Wecom_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Dsfinder_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Kubernetes_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Uptime-kuma_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Vagrant_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Pingvin_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Youtube_D",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Docker_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Onedrive_C",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Chandao_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Tortoisesvn_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Telegram_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Office_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Wangxinyun_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Drawio_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Autobrr_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "linkease",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Koreader_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Gatus_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "tachidesk",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Qbitmanage_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Collabora_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Bilibili_E",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Wechat_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Navidrome_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Vnc_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Nps_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Rocky_D",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Showtime_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Esphome_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Google_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Deluge_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Freefilesync_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Radarr_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Synophotos_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Overleaf_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Overseerr_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Adguard_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Notesnook_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "clouddrive2",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Huashengke_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Plex_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Nastools_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Kutt_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Bilibili_D",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "aliyunpan",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Codex-docs_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Ombi_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Pma_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Baidu_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Roon_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "lanraragi",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Nginx_H",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Ghostfolio_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "aliyundrive",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Xarr_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Traefik_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Firefox_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Quill_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Onedrive_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Youtube_E",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Unlock-music_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Netdata_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Wecom_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "tldraw",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Swingmusic_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "Wikijs_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/circle",
+        "name": "Macos_High_Sierra",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/circle",
+        "name": "Macos_Monterey",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "svg",
+        "type": "vms",
+        "path": "vms/circle",
+        "name": "Ubuntu_C",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "svg",
+        "type": "vms",
+        "path": "vms/circle",
+        "name": "Ubuntu_B",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/circle",
+        "name": "Macos_Bigsur",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "svg",
+        "type": "vms",
+        "path": "vms/circle",
+        "name": "Ubuntu_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/circle",
+        "name": "PVE_B",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/circle",
+        "name": "ubuntukylin",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/circle",
+        "name": "Librespeed_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/circle",
+        "name": "PVE_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/circle",
+        "name": "Macos_Sierra",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/circle",
+        "name": "Macos_EI_Capitan",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/circle",
+        "name": "Dell_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/circle",
+        "name": "Macos_A",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/circle",
+        "name": "Macos_Mojave",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/circle",
+        "name": "Macos_Catalina",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/circle",
+        "name": "ubuntu",
+        "icon_type": "circle"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/border-radius",
+        "name": "Ubuntu_D",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/border-radius",
+        "name": "Unbound_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/border-radius",
+        "name": "Ubuntu_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/border-radius",
+        "name": "Ubuntu_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/border-radius",
+        "name": "Ubuntu_C",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/border-radius",
+        "name": "Ikuai_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/border-radius",
+        "name": "Linux_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/border-radius",
+        "name": "Bookstack_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/border-radius",
+        "name": "Ikuai_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/border-radius",
+        "name": "Appletv_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/border-radius",
+        "name": "Unbalance_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/border-radius",
+        "name": "Ittools_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/border-radius",
+        "name": "Pve_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/border-radius",
+        "name": "openwrt",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/border-radius",
+        "name": "Synology_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/border-radius",
+        "name": "Iyuu_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/border-radius",
+        "name": "Pve_C",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/border-radius",
+        "name": "Pve_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/border-radius",
+        "name": "Synology_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/border-radius",
+        "name": "Cbs_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/border-radius",
+        "name": "Unraid_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/border-radius",
+        "name": "Vmware_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/border-radius",
+        "name": "Asus_router_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/border-radius",
+        "name": "Unraid_C",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/border-radius",
+        "name": "winpe",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/border-radius",
+        "name": "Unraid_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/border-radius",
+        "name": "Vmware_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/border-radius",
+        "name": "Audiobookshelf_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/border-radius",
+        "name": "Redhat_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/border-radius",
+        "name": "macos",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/border-radius",
+        "name": "Centos_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/border-radius",
+        "name": "Autobangumi_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/border-radius",
+        "name": "Immich_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/border-radius",
+        "name": "Istoreos_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/border-radius",
+        "name": "Centos_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/border-radius",
+        "name": "ikuai",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/border-radius",
+        "name": "Unraid_D",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/border-radius",
+        "name": "Autobangumi_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/border-radius",
+        "name": "Immich_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/border-radius",
+        "name": "Appletv+_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/border-radius",
+        "name": "Macos_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "vms",
+        "path": "vms/border-radius",
+        "name": "Appletv+_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/border-radius",
+        "name": "Syncthing_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "vms",
+        "path": "vms/border-radius",
+        "name": "Centos_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "vms",
+        "path": "vms/border-radius",
+        "name": "Centos_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/border-radius",
+        "name": "windows10",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "vms",
+        "path": "vms/border-radius",
+        "name": "Debian_B",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/border-radius",
+        "name": "centos",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "vms",
+        "path": "vms/border-radius",
+        "name": "windows11",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "vms",
+        "path": "vms/border-radius",
+        "name": "Vmware_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "vms",
+        "path": "vms/border-radius",
+        "name": "Debian_A",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "vms",
+        "path": "vms/border-radius",
+        "name": "Unraid_A",
+        "icon_type": "border-radius"
+    }
+]

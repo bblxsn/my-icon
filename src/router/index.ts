@@ -12,7 +12,7 @@ const routes: Array<RouteRecordRaw> = [
     {
         path: '/index2',
         name: 'index2',
-        component: () => import( '../views/index2.vue'),
+        component: () => import( '../views/index3.vue'),
         meta: {
             title: "My Icon2",
         },

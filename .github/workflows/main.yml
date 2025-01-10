@@ -24,10 +24,8 @@ jobs:
       - name: Build
         run: npm run build
 
-      - name: Deploy to GitHub Pages
+      - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{secrets.ACCESS_TOKEN}}  # 此处修改为你的Secret名称
           publish_dir: ./dist
-
-

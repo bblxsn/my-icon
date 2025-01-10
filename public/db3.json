@@ -6739,5 +6739,40 @@
         "path": "vms/border-radius",
         "name": "Unraid_A",
         "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "other",
+        "path": "other/baidu1",
+        "name": "百度1",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "other",
+        "path": "other/baidu2",
+        "name": "百度2",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "other",
+        "path": "other/baidu3",
+        "name": "百度3",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "other",
+        "path": "other/baidu4",
+        "name": "百度4",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "other",
+        "path": "other/OCR1",
+        "name": "OCR1",
+        "icon_type": "border-radius"
     }
 ]

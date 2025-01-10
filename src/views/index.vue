@@ -222,7 +222,7 @@ export default defineComponent({
       let iconurl = "https://gitee.com/bblxsn/my-icon/raw/master/dist/"+ path +"/" + url;
       await toClipboard(iconurl);
       ElMessage({
-        message: "gitee图标链接复制成功~",
+        message: "gitee图标链接复制成功！！",
         type: "success",
       });
     }

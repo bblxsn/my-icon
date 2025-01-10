@@ -1,7 +1,7 @@
 const { defineConfig } = require('@vue/cli-service')
 module.exports = defineConfig({
   //打包配置文件
-  publicPath:  './icon',// 基本路径
+  publicPath:  './my-icon/',// 基本路径
   outputDir: "dist", // 输出文件目录
   assetsDir: "./assets", //放置生成的静态文件目录（js css img）
   productionSourceMap: false, // 生产环境是否生成 sourceMap 文件

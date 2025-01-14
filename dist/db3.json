@@ -6739,5 +6739,54 @@
         "path": "vms/border-radius",
         "name": "Unraid_A",
         "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "other",
+        "path": "other/border-radius",
+        "name": "baidu1",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "other",
+        "path": "other/border-radius",
+        "name": "baidu2",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "other",
+        "path": "other/border-radius",
+        "name": "baidu3",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "other",
+        "path": "other/border-radius",
+        "name": "baidu4",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "other",
+        "path": "other/border-radius",
+        "name": "OCR1",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "svg",
+        "type": "other",
+        "path": "other/border-radius",
+        "name": "sun-panel1",
+        "icon_type": "border-radius"
+    },
+    {
+        "suffix": "png",
+        "type": "docker",
+        "path": "docker/border-radius",
+        "name": "sun-panel_A",
+        "icon_type": "border-radius"
     }
 ]
